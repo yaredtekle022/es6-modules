@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Awesome Books</b></h3>
+  <h3><b>Es6 modules with  Awesome Books </b></h3>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 # 📖 [Awesome books] <a name="about-project"></a>
 
-> A website which display list of books
+> Awsome books with es6 modules
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,6 +46,7 @@
 
 - **Book List Section**
 - **Add Book Form**
+- **contact section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

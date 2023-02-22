@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Es6 modules with  Awesome Books </b></h3>
+  <h3><b>Es6 module with  Awesome Books </b></h3>
 
 </div>
 
